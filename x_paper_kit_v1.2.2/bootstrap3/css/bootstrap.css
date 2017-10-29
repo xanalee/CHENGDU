@@ -4848,7 +4848,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .label {
   display: inline;
   padding: .2em .6em .3em;
-  font-size: 75%;
+  font-size: 85%;
   font-weight: bold;
   line-height: 1;
   color: #fff;
@@ -4856,6 +4856,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   white-space: nowrap;
   vertical-align: baseline;
   border-radius: .25em;
+  font-family:"方正舒体";
 }
 a.label:hover,
 a.label:focus {
@@ -6242,7 +6243,6 @@ button.close {
  
 }
 .carousel-inner {
-  background-color: red;
   position: relative;
   width: 100%;
   overflow: hidden;
