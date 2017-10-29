@@ -19,7 +19,7 @@
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
+  font-family: '方正舒体', "Helvetica", Arial, sans-serif;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
@@ -44,7 +44,8 @@ h3, .h3 {
 h4, .h4 {
   font-size: 1.5em;
   font-weight: 600;
-  line-height: 1.2em;
+  line-height: 1.8em;
+  text-align:left;
 }
 
 h5, .h5 {
