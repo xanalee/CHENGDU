@@ -62,7 +62,7 @@ h6, .h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.4em;
 }
 
@@ -126,8 +126,8 @@ blockquote small {
 
 /*     General overwrite     */
 body {
-  color: #66615b;
-  font-size: 16px;
+  color: orange;
+  font-size: 22px;
   font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
 }
 
