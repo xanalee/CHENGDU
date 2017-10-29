@@ -1950,7 +1950,7 @@ pre code {
     width: 75%;
   }
   .col-md-8 {
-    width: 75%;
+    width: 66.66666667%;
   }
   .col-md-7 {
     width: 58.33333333%;
@@ -6239,11 +6239,13 @@ button.close {
 }
 .carousel {
   position: relative;
+ 
 }
 .carousel-inner {
   position: relative;
   width: 100%;
   overflow: hidden;
+
 }
 .carousel-inner > .item {
   position: relative;
