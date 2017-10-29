@@ -1436,7 +1436,7 @@ textarea.form-control {
 .section {
   padding: 30px 0;
   position: relative;
-  background-color: #FFFFFF;
+  background-color: rgb(252,225,209);
   background-image: linear-gradient(to bottom, transparent 0%, rgba(112, 112, 112, 0) 60%, rgba(186, 186, 186, 0.15) 100%);
 }
 
@@ -1477,7 +1477,7 @@ textarea.form-control {
 }
 
 .section-dark {
-  background-color: #FF9966;
+  background-color: #FF8F5E;
   color: #FFFFFF;
 }
 
@@ -2440,7 +2440,7 @@ textarea.form-control {
 }
 
 .carousel-inner {
-  background-color: #d6d2cc;
+  background-color: rgb(244,169,122);
 }
 
 .carousel-inner > .item {
